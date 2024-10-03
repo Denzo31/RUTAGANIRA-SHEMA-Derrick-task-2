@@ -162,3 +162,10 @@ SQL>
 ![4](https://github.com/user-attachments/assets/45bde1a4-2d97-4065-aee4-f5da4b3f8b67)
 ![5](https://github.com/user-attachments/assets/dd121be2-62a2-49cf-a5f5-82f8a782f6f4)
 ![6](https://github.com/user-attachments/assets/9f05260c-d80c-4873-9ecd-4bc7296f9f6a)
+
+### 	Enterprise Manager Database Express Screenshots
+![01](https://github.com/user-attachments/assets/9d1b7164-b3f5-4bbf-b82a-f0fe45f347e4)
+![02](https://github.com/user-attachments/assets/0c243ccf-2c3f-4a71-8fac-40d3626852e5)
+![03](https://github.com/user-attachments/assets/8617a0bf-9657-435f-8a5f-a43695f78734)
+![04](https://github.com/user-attachments/assets/05d9e96f-acd5-4dd9-b635-94cc1e3acda7)
+![05](https://github.com/user-attachments/assets/beb69c15-3aaf-4ff8-9da9-6961151856ae)
